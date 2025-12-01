@@ -58,9 +58,9 @@ _курсив_ и **полужирный**.
 
 ```bash
 
-mkdir my\_project
+mkdir my_project
 
-cd my\_project
+cd my_project
 
 git log
 
